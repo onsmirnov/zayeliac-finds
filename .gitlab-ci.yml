@@ -1,13 +1,13 @@
-image: alpine:latest
-
 pages:
   stage: deploy
+  image: alpine:latest
   script:
-    - echo "Deploying Zayeliac Finds to GitLab Pages"
     - mkdir -p public
-    - cp -r index.html script.js data public/
+    - cp index.html public/
+    - cp script.js public/
+    - cp -r data public/
   artifacts:
     paths:
       - public
-  only:
-    - main
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"
