@@ -1,0 +1,13 @@
+image: alpine:latest
+
+pages:
+  stage: deploy
+  script:
+    - echo "Deploying Zayeliac Finds to GitLab Pages"
+    - mkdir -p public
+    - cp -r index.html script.js data public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - main

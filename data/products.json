@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Croissants",
+    "brand": "Schär",
+    "category": "Bakery",
+    "niche": true,
+    "description": "Flaky, buttery croissants - rare find in GF world",
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=300&h=200&fit=crop",
+    "stockists": ["Tesco", "Sainsbury's", "Ocado"],
+    "url": "https://www.schaer.com/en-gb"
+  },
+  {
+    "id": 2,
+    "name": "Seeded Bread",
+    "brand": "Genius",
+    "category": "Bread",
+    "niche": false,
+    "description": "Soft seeded loaf, great for sandwiches",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=200&fit=crop",
+    "stockists": ["Tesco", "Asda", "Morrisons", "Sainsbury's"],
+    "url": "https://www.geniusglutenfree.com"
+  },
+  {
+    "id": 3,
+    "name": "Brown Rice Penne",
+    "brand": "Rizopia",
+    "category": "Pasta",
+    "niche": true,
+    "description": "Organic brown rice pasta - holds shape well, no mush",
+    "image": "https://images.unsplash.com/photo-1551462147-37885acc36f1?w=300&h=200&fit=crop",
+    "stockists": ["Whole Foods", "Amazon", "Holland & Barrett"],
+    "url": "https://www.rizopia.co.uk"
+  },
+  {
+    "id": 4,
+    "name": "Cola Bottles",
+    "brand": "Free From Fellows",
+    "category": "Sweets",
+    "niche": true,
+    "description": "Vegan & GF gummy sweets - no gelatine, no gluten",
+    "image": "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=300&h=200&fit=crop",
+    "stockists": ["Sainsbury's", "Ocado", "Amazon"],
+    "url": "https://freefromfellows.com"
+  },
+  {
+    "id": 5,
+    "name": "Belgian Chocolate Brownies",
+    "brand": "Lazy Day",
+    "category": "Bakery",
+    "niche": true,
+    "description": "Rich, fudgy brownies - free from 14 allergens",
+    "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=300&h=200&fit=crop",
+    "stockists": ["Tesco", "Waitrose", "Ocado"],
+    "url": "https://www.lazydayfoods.com"
+  },
+  {
+    "id": 6,
+    "name": "Coconut Macaroons",
+    "brand": "Mrs Crimble's",
+    "category": "Bakery",
+    "niche": false,
+    "description": "Classic coconut macaroons - chewy and sweet",
+    "image": "https://images.unsplash.com/photo-1558326567-98ae2405596b?w=300&h=200&fit=crop",
+    "stockists": ["Tesco", "Asda", "Sainsbury's", "Morrisons"],
+    "url": "https://www.mrscrimbles.com"
+  },
+  {
+    "id": 7,
+    "name": "Honey Granola",
+    "brand": "Delicious Alchemy",
+    "category": "Breakfast",
+    "niche": true,
+    "description": "Crunchy oat-free granola with honey clusters",
+    "image": "https://images.unsplash.com/photo-1517093728432-a0440f8d45af?w=300&h=200&fit=crop",
+    "stockists": ["Ocado", "Amazon", "Independent health stores"],
+    "url": "https://deliciousalchemy.com"
+  },
+  {
+    "id": 8,
+    "name": "Oat Crackers",
+    "brand": "Nairn's",
+    "category": "Snacks",
+    "niche": false,
+    "description": "GF certified oat crackers - perfect with cheese",
+    "image": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=300&h=200&fit=crop",
+    "stockists": ["Tesco", "Sainsbury's", "Waitrose", "Asda"],
+    "url": "https://www.nairns-oatcakes.com"
+  },
+  {
+    "id": 9,
+    "name": "Fusilli",
+    "brand": "Garofalo",
+    "category": "Pasta",
+    "niche": false,
+    "description": "Italian GF pasta - bronze die cut, great texture",
+    "image": "https://images.unsplash.com/photo-1603729362753-f8162ac6c3df?w=300&h=200&fit=crop",
+    "stockists": ["Waitrose", "Ocado", "Sainsbury's"],
+    "url": "https://www.pasta-garofalo.com"
+  },
+  {
+    "id": 10,
+    "name": "Ciabatta Rolls",
+    "brand": "Schär",
+    "category": "Bread",
+    "niche": true,
+    "description": "Par-baked ciabatta - crispy crust, soft inside",
+    "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=300&h=200&fit=crop",
+    "stockists": ["Tesco", "Sainsbury's", "Ocado"],
+    "url": "https://www.schaer.com/en-gb"
+  },
+  {
+    "id": 11,
+    "name": "Digestive Biscuits",
+    "brand": "Schar",
+    "category": "Snacks",
+    "niche": false,
+    "description": "Classic digestives - perfect for tea dunking",
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=300&h=200&fit=crop",
+    "stockists": ["Tesco", "Asda", "Sainsbury's"],
+    "url": "https://www.schaer.com/en-gb"
+  },
+  {
+    "id": 12,
+    "name": "Pizza Bases",
+    "brand": "Bfree",
+    "category": "Bakery",
+    "niche": false,
+    "description": "Stone-baked style bases - thin and crispy",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&h=200&fit=crop",
+    "stockists": ["Tesco", "Sainsbury's", "Asda"],
+    "url": "https://www.bfreetobeme.com"
+  },
+  {
+    "id": 13,
+    "name": "Flapjacks",
+    "brand": "Prewett's",
+    "category": "Snacks",
+    "niche": false,
+    "description": "Chewy GF oat flapjacks - various flavours",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=300&h=200&fit=crop",
+    "stockists": ["Holland & Barrett", "Tesco", "Ocado"],
+    "url": "https://www.prewetts.co.uk"
+  },
+  {
+    "id": 14,
+    "name": "Sourdough Loaf",
+    "brand": "Modern Baker",
+    "category": "Bread",
+    "niche": true,
+    "description": "Artisan GF sourdough - proper crust and crumb",
+    "image": "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=300&h=200&fit=crop",
+    "stockists": ["Waitrose", "Ocado"],
+    "url": "https://www.modernbaker.com"
+  },
+  {
+    "id": 15,
+    "name": "Chocolate Chip Cookies",
+    "brand": "Nomo",
+    "category": "Snacks",
+    "niche": true,
+    "description": "Vegan & GF cookies - free from top 14 allergens",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=300&h=200&fit=crop",
+    "stockists": ["Sainsbury's", "Asda", "Holland & Barrett"],
+    "url": "https://nomochoc.com"
+  },
+  {
+    "id": 16,
+    "name": "Fish Fingers",
+    "brand": "Birds Eye",
+    "category": "Ready Meals",
+    "niche": false,
+    "description": "GF fish fingers - same taste, safe coating",
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=300&h=200&fit=crop",
+    "stockists": ["Tesco", "Asda", "Sainsbury's", "Morrisons"],
+    "url": "https://www.birdseye.co.uk"
+  },
+  {
+    "id": 17,
+    "name": "Sausages",
+    "brand": "Heck",
+    "category": "Ready Meals",
+    "niche": false,
+    "description": "97% pork sausages - naturally GF, high meat content",
+    "image": "https://images.unsplash.com/photo-1587536849024-daaa4a417b16?w=300&h=200&fit=crop",
+    "stockists": ["Tesco", "Sainsbury's", "Waitrose"],
+    "url": "https://heckfood.co.uk"
+  },
+  {
+    "id": 18,
+    "name": "Flour Blend",
+    "brand": "Doves Farm",
+    "category": "Baking",
+    "niche": false,
+    "description": "All-purpose GF flour - great for baking",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=300&h=200&fit=crop",
+    "stockists": ["Tesco", "Sainsbury's", "Waitrose", "Asda"],
+    "url": "https://www.dovesfarm.co.uk"
+  },
+  {
+    "id": 19,
+    "name": "Christmas Pudding",
+    "brand": "Cottage Delight",
+    "category": "Bakery",
+    "niche": true,
+    "description": "Proper GF Christmas pud - seasonal but worth hunting",
+    "image": "https://images.unsplash.com/photo-1607083206968-13611e3d76db?w=300&h=200&fit=crop",
+    "stockists": ["Waitrose", "Ocado", "Independent delis"],
+    "url": "https://www.cottagedelight.co.uk"
+  },
+  {
+    "id": 20,
+    "name": "Mince Pies",
+    "brand": "M&S Made Without",
+    "category": "Bakery",
+    "niche": true,
+    "description": "Seasonal GF mince pies - M&S quality",
+    "image": "https://images.unsplash.com/photo-1607083206968-13611e3d76db?w=300&h=200&fit=crop",
+    "stockists": ["M&S"],
+    "url": "https://www.marksandspencer.com"
+  }
+]
